@@ -1,0 +1,1 @@
+<!-- cette page contient les parcelles occupés ou déjà prise -->
